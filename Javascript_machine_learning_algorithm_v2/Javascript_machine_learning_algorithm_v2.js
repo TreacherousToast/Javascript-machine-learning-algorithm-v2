@@ -39,7 +39,7 @@ function show() // all this doesn't really relate to the algorithm, it just prin
   text("Maximum number for range: "+maxNum,1,94);
   text("Number of data generations: "+dataGenerations, 1,106);
   
-  text("This machine learning algorithm gets ",1,130);
+  text("This machine learning algorithm gets ",1,130); // this whole part doesn't really matter
   text("more precise in the generation of a number.",1,142);
   text("The number is represented by the number",1,154);
   text("above and the shade in the rectangle.",1,166);
